@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **computer science**
 
-- 👯 I’m looking to collaborate on **Most of back end projects**
+- 👯 I’m looking to collaborate on **Most of back end projects api integration and infuture cybersecuirty**
 
 - 📝 I regularly write articles on [Telegram](Telegram)
 
