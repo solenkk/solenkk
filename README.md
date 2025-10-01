@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **django rest frame work and api authentication**
 
-- 📫 How to reach me **kassahunsolen@gmail.com**
+- 📫 How to reach me **kassahunsolen@gmail.com** 
 
 - ⚡ Fun fact **am building my own world**
 
