@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm solen kassahun</h1>
 <h3 align="center">🎓 Computer Science student at Arbaminch University 🚀 ALX Software Engineering Graduate (Backend Specialization)</h3>
 
-- 🔭 I’m currently working on [movie_recommendation](https://github.com/solenkk/movie_recommendation)
+- 🔭 I’m currently working on [movie_recommendation](https://github.com/solenkk/movie_recommendation) , https://github.com/solenkk/poll_sys
 
 - 🌱 I’m currently learning **computer science**
 
